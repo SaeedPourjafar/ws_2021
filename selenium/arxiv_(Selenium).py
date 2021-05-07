@@ -114,7 +114,6 @@ a = pd.Series(A_list, name = 'Authors')
 d = pd.Series(Date_list, name = 'Date')
 p = pd.Series(PDF_list, name = 'PDF')
 df = pd.concat([t,c,a,d,p], axis=1)
-
 df.to_csv('papers.csv', index=False)
 
 driver.quit()
