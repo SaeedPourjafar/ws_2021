@@ -8,7 +8,7 @@ python3 arxiv_(BS).py
 # For Windows
 python arxiv_(BS).py
 ```
-Alternatively you can run the file from your text editor. In Sublime3 you can press Ctrl+B to run the codes (for the first time you may want to pres Ctrl+Shift+B to declare your preferd python interpreter if you have more than one version of python)
+Alternatively you can run the file from your text editor. In Sublime3 you can press Ctrl+B to run the codes (for the first time you may want to press Ctrl+Shift+B to declare your preferd python interpreter if you have more than one version of python)
 
 <b>Scrapy</b>: For runing the spiders first put all the files (`arxiv1.py`,`arxiv2.py`,`arxiv3.py`) into the spiders folder and then from your CMD/Terminal navigate to the scrapy project folder. Please run the commands below in this particular order:<br>
 ```
